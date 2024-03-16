@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\Dmitriy\Desktop\Hackaton_P2P_Chat\build\raygui.h(4107,71): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Dmitriy\Desktop\Hackaton_P2P_Chat\build\raygui.h(4107,104): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Dmitriy\Desktop\Hackaton_P2P_Chat\build\raygui.h(4111,132): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\Dmitriy\Desktop\Hackaton_P2P_Chat\build\raygui.h(4117,132): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+  Hackaton_P2P_Chat.vcxproj -> C:\Users\Dmitriy\Desktop\Hackaton_P2P_Chat\bin\Debug\Hackaton_P2P_Chat.exe
